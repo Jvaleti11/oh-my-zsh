@@ -25,17 +25,17 @@ Oh My Zsh is installed by running one of the following commands in your terminal
 
 #### via curl
 
-`curl -L https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh | sh`
+`curl -L https://raw.github.com/Jvaleti11/oh-my-zsh/master/tools/install.sh | sh`
 
 #### via wget
 
-`wget https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh -O - | sh`
+`wget https://raw.github.com/Jvaleti11/oh-my-zsh/master/tools/install.sh -O - | sh`
 
 ## Using Oh My Zsh
 
 ### Plugins
 
-Oh My Zsh comes with a shit load of plugins to take advantage of. You can take a look in the [plugins](https://github.com/robbyrussell/oh-my-zsh/tree/master/plugins) directory and/or the [wiki](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins) to see what's currently available.
+Oh My Zsh comes with a shit load of plugins to take advantage of. You can take a look in the [plugins](https://github.com/Jvaleti11/oh-my-zsh/tree/master/plugins) directory and/or the [wiki](https://github.com/Jvaleti11/oh-my-zsh/wiki/Plugins) to see what's currently available.
 
 #### Enabling Plugins
 
